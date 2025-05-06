@@ -23,3 +23,10 @@ Discuss any prior work or existing solutions that relate to this proposal. This 
 ## Alternatives
 
 List and describe alternative approaches that were considered. Explain why they were not chosen and how they compare to the proposed solution.
+
+## Unanswered Questions
+
+List any unresolved questions that this SIP fails to answer.
+
+- What questions need answers during the design phase of this SIP?
+- What needs to be answered during implementation?
